@@ -14,6 +14,7 @@ module.exports = {
     // error; 缩进2空格
     indent: [2, 2],
     // error; 结尾必须有分号
-    semi: [2, 'never']
+    semi: [2, 'never'],
+    "max-len": "off",
   }
 };
