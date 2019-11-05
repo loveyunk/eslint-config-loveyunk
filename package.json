@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-loveyunk",
+  "version": "1.0.0",
+  "description": "My personal eslint preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loveyunk/eslint-config-loveyunk.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "loveyunk"
+  ],
+  "author": "loveyunk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loveyunk/eslint-config-loveyunk/issues"
+  },
+  "homepage": "https://github.com/loveyunk/eslint-config-loveyunk#readme",
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
