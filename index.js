@@ -11,10 +11,7 @@ module.exports = {
     sourceType: 'module'
   },
   rules: {
-    // error; 缩进2空格
-    indent: [2, 2],
-    // error; 结尾必须有分号
-    semi: [2, 'never'],
-    'max-len': 'off'
+    indent: [2, 4],
+    semi: [2, 'never']
   }
 };
